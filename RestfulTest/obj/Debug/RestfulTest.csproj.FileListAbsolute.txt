@@ -1,0 +1,6 @@
+C:\Users\jemmy.KLAV-SGH534RZG7\documents\visual studio 2013\Projects\LoginTest\RestfulTest\bin\RestfulTest.dll.config
+C:\Users\jemmy.KLAV-SGH534RZG7\documents\visual studio 2013\Projects\LoginTest\RestfulTest\bin\RestfulTest.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\documents\visual studio 2013\Projects\LoginTest\RestfulTest\bin\RestfulTest.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\documents\visual studio 2013\Projects\LoginTest\RestfulTest\obj\Debug\RestfulTest.dll
+C:\Users\jemmy.KLAV-SGH534RZG7\documents\visual studio 2013\Projects\LoginTest\RestfulTest\obj\Debug\RestfulTest.pdb
+C:\Users\jemmy.KLAV-SGH534RZG7\documents\visual studio 2013\Projects\LoginTest\RestfulTest\obj\Debug\RestfulTest.csprojResolveAssemblyReference.cache
